@@ -4,3 +4,5 @@ def hello():
 def bye():
     print("Bye, have a wonderful time!")
 
+hello()
+bye()
